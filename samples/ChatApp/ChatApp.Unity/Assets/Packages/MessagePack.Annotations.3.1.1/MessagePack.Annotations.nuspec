@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>MessagePack.Annotations</id>
-    <version>3.1.1</version>
+    <version>3.1.7</version>
     <title>MessagePack annotations for C#</title>
     <authors>neuecc,aarnott</authors>
     <license type="expression">MIT</license>

@@ -20,11 +20,11 @@ MagicOnion.IgnoreAttribute</description>
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Grpc.Core.Api" version="2.57.0" exclude="Build,Analyzers" />
-        <dependency id="MessagePack" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.7" exclude="Build,Analyzers" />
       </group>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Grpc.Core.Api" version="2.57.0" exclude="Build,Analyzers" />
-        <dependency id="MessagePack" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.7" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
