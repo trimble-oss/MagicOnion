@@ -16,17 +16,17 @@
       <group targetFramework="net8.0">
         <dependency id="MagicOnion.Abstractions" version="7.0.0-preview.10-ci-20241223-092158" exclude="Build,Analyzers" />
         <dependency id="Grpc.Core.Api" version="2.57.0" exclude="Build,Analyzers" />
-        <dependency id="MessagePack" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.7" exclude="Build,Analyzers" />
       </group>
       <group targetFramework=".NETStandard2.0">
         <dependency id="MagicOnion.Abstractions" version="7.0.0-preview.10-ci-20241223-092158" exclude="Build,Analyzers" />
         <dependency id="Grpc.Core.Api" version="2.57.0" exclude="Build,Analyzers" />
-        <dependency id="MessagePack" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.7" exclude="Build,Analyzers" />
       </group>
       <group targetFramework=".NETStandard2.1">
         <dependency id="MagicOnion.Abstractions" version="7.0.0-preview.10-ci-20241223-092158" exclude="Build,Analyzers" />
         <dependency id="Grpc.Core.Api" version="2.57.0" exclude="Build,Analyzers" />
-        <dependency id="MessagePack" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.7" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>

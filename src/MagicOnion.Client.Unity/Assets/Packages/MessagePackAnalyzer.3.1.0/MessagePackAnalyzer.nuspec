@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>MessagePackAnalyzer</id>
-    <version>3.1.0</version>
+    <version>3.1.7</version>
     <title>MessagePack Source Generator and Analyzer</title>
     <authors>neuecc,aarnott</authors>
     <developmentDependency>true</developmentDependency>
